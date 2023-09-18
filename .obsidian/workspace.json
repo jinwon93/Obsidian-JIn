@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d222a190a9d37494",
+        "id": "d29f2f2bcd0e23c6",
         "type": "tabs",
         "children": [
           {
-            "id": "0f39b71b7a54ddfc",
+            "id": "960a46729e067cbe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,17 +16,14 @@
             }
           },
           {
-            "id": "ba49cfbe1ec2e743",
+            "id": "076d484417979f69",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -159,13 +155,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ba49cfbe1ec2e743",
+  "active": "de392059d68f88c6",
   "lastOpenFiles": [
-    "Obsidian-Vault",
-    "Untitled 1.canvas",
-    "2023-09-18.md",
-    "Untitled.md",
+    "2023-09-16.md",
+    "README.md",
+    "template",
+    "media",
     "Untitled.canvas",
-    "2023-09-16.md"
+    "무제 파일 1.canvas",
+    "test.md",
+    "무제 파일.canvas",
+    "Untitled 1.canvas",
+    "Obsidian-Vault",
+    "2023-09-18.md",
+    "Untitled.md"
   ]
 }
