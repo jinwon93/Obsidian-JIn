@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "076d484417979f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Collection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JAVA/Collection.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,11 +138,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "076d484417979f69",
+  "active": "960a46729e067cbe",
   "lastOpenFiles": [
+    "JAVA/Collection.md",
     "NETWORK",
     "README.md",
-    "JAVA/Collection.md",
     "JAVA",
     "2023-09-16.md",
     "template",
