@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK/TCP UDP.md",
+                "file": "CS/Design Pattern/Singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NETWORK/TCP UDP.md",
+                "file": "CS/Design Pattern/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NETWORK/TCP UDP.md",
+                "file": "CS/Design Pattern/Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NETWORK/TCP UDP.md"
+                "file": "CS/Design Pattern/Singleton.md"
               }
             }
           }
@@ -148,14 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de392059d68f88c6",
+  "active": "a2bb029be9a1baa8",
   "lastOpenFiles": [
+    "CS/NETWORK/TCP UDP.md",
+    "CS/Design Pattern/Singleton.md",
+    "CS/Design Pattern",
     "CS",
     "JAVA/Overriding vs Overloading.md",
     "JAVA/Collection.md",
     "무제 파일.canvas",
-    "NETWORK/TCP UDP.md",
-    "NETWORK",
+    "CS/NETWORK",
     "README.md",
     "JAVA",
     "2023-09-16.md",
