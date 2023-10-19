@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cb3a92471f1373d7",
+        "id": "3b5fd2a09b715629",
         "type": "tabs",
         "children": [
           {
-            "id": "a2bb029be9a1baa8",
+            "id": "2430284ccd5a1e6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Design Pattern/Singleton.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Design Pattern/Singleton.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a2bb029be9a1baa8",
+  "active": "2430284ccd5a1e6a",
   "lastOpenFiles": [
-    "CS/NETWORK/TCP UDP.md",
     "CS/Design Pattern/Singleton.md",
+    "CS/NETWORK/TCP UDP.md",
     "CS/Design Pattern",
     "CS",
     "JAVA/Overriding vs Overloading.md",
