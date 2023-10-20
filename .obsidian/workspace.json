@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md",
+                "file": "CS/NETWORK/교착상태 (DeadLock).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md",
+                "file": "CS/NETWORK/교착상태 (DeadLock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md",
+                "file": "CS/NETWORK/교착상태 (DeadLock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Design Pattern/Singleton.md"
+                "file": "CS/NETWORK/교착상태 (DeadLock).md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "2430284ccd5a1e6a",
   "lastOpenFiles": [
     "CS/Design Pattern/Singleton.md",
+    "CS/NETWORK/교착상태 (DeadLock).md",
     "CS/NETWORK/TCP UDP.md",
     "CS/Design Pattern",
     "CS",
