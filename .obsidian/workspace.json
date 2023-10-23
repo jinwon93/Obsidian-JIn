@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/NETWORK/교착상태 (DeadLock).md",
+                "file": "CS/NETWORK/교착상태 ,기아상태.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/NETWORK/교착상태 (DeadLock).md",
+                "file": "CS/NETWORK/교착상태 ,기아상태.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/NETWORK/교착상태 (DeadLock).md",
+                "file": "CS/NETWORK/교착상태 ,기아상태.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/NETWORK/교착상태 (DeadLock).md"
+                "file": "CS/NETWORK/교착상태 ,기아상태.md"
               }
             }
           }
@@ -148,10 +148,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2430284ccd5a1e6a",
+  "active": "de392059d68f88c6",
   "lastOpenFiles": [
     "CS/Design Pattern/Singleton.md",
-    "CS/NETWORK/교착상태 (DeadLock).md",
+    "CS/NETWORK/교착상태 ,기아상태.md",
     "CS/NETWORK/TCP UDP.md",
     "CS/Design Pattern",
     "CS",
